@@ -66,7 +66,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-## 🚀 See a quick video of the page<a name="live-demo"> </a>
+## 🚀 See a quick video of the page<a name="live-demo-video"> </a>
 
 [![Watch the video!!](https://img.youtube.com/vi/L-d_ughvN6s/maxresdefault.jpg)](https://youtu.be/L-d_ughvN6s)
 
