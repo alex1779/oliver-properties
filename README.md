@@ -59,7 +59,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo Page<a name="live"> </a>
+## 🚀 Live<a name="live"> </a>
 
 [Live demo page](https://massage-center.onrender.com/)
 
