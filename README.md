@@ -13,7 +13,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-license-)
+  - [🚀 Live Demo ](#-live-)
   - [💻 Getting Started ](#-getting-started-)
   - [Available Scripts](#available-scripts)
     - [`python3 manage.py runserver`](#python3_manage.py_runserver)
@@ -59,7 +59,7 @@
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo Page<a name="live-demo"> </a>
+## 🚀 Live Demo Page<a name="live"> </a>
 
 [Live demo page](https://massage-center.onrender.com/)
 
