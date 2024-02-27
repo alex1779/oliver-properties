@@ -13,7 +13,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
-  - [🚀 Live Demo ](#-live-demo-)
+  - [🚀 Live Demo ](#-license-)
   - [💻 Getting Started ](#-getting-started-)
   - [Available Scripts](#available-scripts)
     - [`python3 manage.py runserver`](#python3_manage.py_runserver)
