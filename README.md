@@ -32,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Massage Center using Django with Bootstrap! <a name="about-project"></a>
+# 📖 Oliver Properties App using Django! <a name="about-project"></a>
 
-**Massage Center Using Django** This is a massage center where you can reserve a service. We offer massage service, spa, aromatherapy and yoga. You can contact from the form.
+**Oliver Properties App using Django** This is the Oliver Properties website. You can search for a property to rent or sell, you can also publish your ad. You can contact from the form.
 
 ## 🛠 Built With <a name="built-with"></a>
 
