@@ -1,3 +1,4 @@
+<!doctype html>
 <html>
 
 <head>
@@ -16,6 +17,7 @@
 
   <!-- Styles -->
   <link href="{% static 'oliverpropertiesapp/css/gestion.css' %}" rel="stylesheet">
+  <link rel="shortcut icon" href="data:image/x-icon;," type="image/x-icon">
 
 </head>
 
@@ -201,15 +203,15 @@
           </li>
 
           <li id="wantbuy-li_2" class="nav-item {% if request.path == '/' %}active{% endif %} px-lg-4">
-            <a class="nav-link-alt" href="{% url 'Home' %}">I WANT TO  <strong>RENT</strong>
+            <a id="wantbuy2" style="float: none;" class="nav-link-alt" href="{% url 'Home' %}">I WANT TO  <strong>RENT</strong>
               
               <!-- Submenu 1 -->
               <ul id="submenu_dropdown_rent" style="display: none;">
 
-                <li class="dropdown submenu">
+                <li id="rent_submenu_departamentos" class="dropdown submenu">
                   <a href="venta-departamentos" title="Venta de departamentos">DEPARTAMENTOS</a>
                   <!-- Submenu 2 -->
-                  <ul class="submenu_dropdown2" style="display: none;">
+                  <ul id="rent_submenu_departamentos_items" class="submenu_dropdown2" style="display: none;">
                     <li class="submenu_dropdown2_li">
                       <a href="venta-departamentos-monoambiente" title="Venta de Departamentos monoambientes ">MONOAMBIENTE</a>
                     </li>
@@ -242,10 +244,10 @@
 
                 <li class="divider"></li>
 
-                <li id="submenu_casas" class="dropdown submenu">
+                <li id="rent_submenu_casas" class="dropdown submenu">
                   <a href="venta-departamentos" title="Venta de departamentos">CASAS</a>
                     <!-- Submenu 2 -->
-                    <ul class="submenu_dropdown_casas" style="display: none;">
+                    <ul id="rent_submenu_casas_items" class="submenu_dropdown_casas" style="display: none;">
                       <li class="submenu_dropdown2_li">
                         <a href="venta-departamentos-monoambiente" title="Venta de Departamentos monoambientes ">MONOAMBIENTE</a>
                       </li>
